@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Asap.ttf",
+      "sha1": "84db100f469cdf265141f29ae26be5748e8fd00b"
+    },
+    {
+      "path": "assets/fonts/ComicNeue.ttf",
+      "sha1": "50f9418f3d4e3cf0758a9a246754b1d5ca19bb8e"
+    },
+    {
+      "path": "assets/fonts/Pokemon.ttf",
+      "sha1": "1d9daea8336c379fc8192edbac7564fc6597830c"
+    },
+    {
+      "path": "assets/fonts/Pokemon_GB.ttf",
+      "sha1": "3d4b93796acf4934f1bdcf08414d0d9238c4bae6"
+    }
+  ]
+}

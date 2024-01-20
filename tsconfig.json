@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  // NOTE: para eliminar el diagnostico de error de tailwind al no reconecer 'className'
+  "compilerOptions": {
+    "strict": true,
+    "types": [
+      "nativewind/types"
+    ]
+  }
+}
